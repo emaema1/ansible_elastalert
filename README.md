@@ -1,4 +1,4 @@
-Role Name
+ElastAlert Role
 =========
 
 A brief description of the role goes here.
